@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.queqes {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.queue {
+  height: 50px;
+  width: 50px;
+  border: 1px solid #000;
+  border-radius: 50%;
+}
+
+.number {
+  margin-top: 20px;
+}
